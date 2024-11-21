@@ -12,8 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Some modifications are reimplemented in public environments by Xiao Fu and Mu Hu
-
 from typing import Any, Dict, Optional, Tuple, Union
 
 import numpy as np

@@ -1,5 +1,3 @@
-# A reimplemented version in public environments by Xiao Fu and Mu Hu
-
 import torch.nn.functional as F
 import sys
 sys.path.append("..")

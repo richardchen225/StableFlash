@@ -1,5 +1,3 @@
-# A reimplemented version in public environments by Xiao Fu and Mu Hu
-
 import numpy as np
 import torch
 

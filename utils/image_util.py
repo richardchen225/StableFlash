@@ -1,4 +1,3 @@
-# Adapted from Marigold ：https://github.com/prs-eth/Marigold
 import numpy as np
 import torch
 
